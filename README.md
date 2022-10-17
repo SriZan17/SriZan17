@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SriZan17
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI, ML and Data Science
 - 🌱 I’m currently learning Flutter/Dart.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sribasnet07@gmail.com

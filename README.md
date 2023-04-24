@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srijan</h1>
 <h3 align="center">Automation Enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [www.srijanbasnet.com.np](www.srijanbasnet.com.np)
+- 👨‍💻 Some of my projects are available at [www.srijanbasnet.com.np](www.srijanbasnet.com.np)
 
 - 📫 How to reach me **sribasnet07@gmail.com**
 

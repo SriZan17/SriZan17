@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Mojo**
 
-- 👨‍💻 All of my projects are available at [www.srijanbasnet.com.np](www.srijanbasnet.com.np)
-
 - 📫 How to reach me **sribasnet07@gmail.com**
 
 - 📄 Know about my experiences [https://www.srijanbasnet.com.np/assets/assets/images/sri.pdf](https://www.srijanbasnet.com.np/assets/assets/images/sri.pdf)
 
 - ⚡ Fun fact **I read one book a week.**
+  
+- - 👨‍💻 Some of my projects are available at [www.srijanbasnet.com.np](www.srijanbasnet.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

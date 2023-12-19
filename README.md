@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I read one book a week.**
   
-- - 👨‍💻 Some of my projects are available at [www.srijanbasnet.com.np](www.srijanbasnet.com.np)
+- 👨‍💻 Some of my projects are available at [www.srijanbasnet.com.np](www.srijanbasnet.com.np)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

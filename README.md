@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sri</h1>
-<h3 align="center">Automation Enthusiast</h3>
+<h3 align="center">AI Specialist</h3>
 
 - 🌱 I’m currently learning **Mojo**
 

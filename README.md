@@ -8,8 +8,6 @@
 - 👨‍💻 Some of my projects are available at [www.srijanbasnet.com.np](www.srijanbasnet.com.np)
 
 - 📄 Know about my experiences [https://www.srijanbasnet.com.np/assets/assets/images/sri.pdf](https://www.srijanbasnet.com.np/assets/assets/images/sri.pdf)
-
-- ⚡ Fun fact **I read one book a week.**
   
 
 <h3 align="left">Connect with me:</h3>

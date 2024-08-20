@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri</h1>
 <h3 align="center">AI Specialist</h3>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning ****
 
 - 📫 How to reach me **sribasnet07@gmail.com**
 

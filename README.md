@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srijan</h1>
-<h3 align="center">Automation Specialist</h3>
+<h3 align="center">Business Process Engineer</h3>
 
 
 - 📫 How to reach me **sribasnet07@gmail.com**

@@ -4,9 +4,9 @@
 
 - 📫 How to reach me **sribasnet07@gmail.com**
 
-- 👨‍💻 Some of my projects are available at [www.srijanbasnet.com.np](www.srijanbasnet.com.np)
+- 👨‍💻 Some of my projects are available at [https://www.srijanbasnet.com.np](https://www.srijanbasnet.com.np)
 
-- 📄 Know about my experiences [https://www.srijanbasnet.com.np/assets/assets/images/sri.pdf](https://www.srijanbasnet.com.np/assets/assets/images/sri.pdf)
+- 📄 Know about my experiences [https://www.srijanbasnet.com.np/assets/assets/images/sri.pdf](https://www.srijanbasnet.com.np/assets/assets/images/SrijanBasnet.pdf)
   
 
 <h3 align="left">Connect with me:</h3>
